@@ -2,15 +2,12 @@ img {
   width: 250px;
 }
 
-header img {
-  width: auto;
-}
-
+header img,
 footer img {
   width: auto;
 }
 
-/* Ellipse 10 */
+/* Filled Ellipse */
 .selected-button {
   background: radial-gradient(50% 50% at 50% 50%, #b477a1 0%, #b477a1 100%);
   border: 1px solid #fff;
