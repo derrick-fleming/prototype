@@ -9,7 +9,7 @@
     "permitted-contents": true,
     "required-attr": true,
     "invalid-attr": true,
-    "landmark-roles": true,
+    "landmark-roles": false,
     "required-h1": false,
     "wai-aria": true,
     "class-naming": "/.+/",

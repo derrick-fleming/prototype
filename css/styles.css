@@ -7,11 +7,6 @@ footer img {
   width: auto;
 }
 
-label,
-input {
-  display: block;
-}
-
 /* Filled Ellipse */
 .selected-button {
   background: radial-gradient(50% 50% at 50% 50%, #b477a1 0%, #b477a1 100%);
